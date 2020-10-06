@@ -57,4 +57,4 @@ def scrape_data():
 
 if __name__ == '__main__':
 	print("This file isn't supposed to run")
-	print('run covid_app.py')
+	print('run covid_app.py after updating')
